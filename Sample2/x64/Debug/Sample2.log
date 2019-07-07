@@ -1,0 +1,4 @@
+﻿  Sample2.cpp
+c:\users\steven chang\desktop\h.2641\sample2\sample2.cpp(23): warning C4838: 从“unsigned int”转换到“int”需要收缩转换
+  Sample2.vcxproj -> C:\Users\Steven Chang\Desktop\H.2641\x64\Debug\Sample2.exe
+  Sample2.vcxproj -> C:\Users\Steven Chang\Desktop\H.2641\x64\Debug\Sample2.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿H.2641.obj : error LNK2019: 无法解析的外部符号 "struct AVDictionaryEntry * __cdecl av_dict_get(struct AVDictionary const *,char const *,struct AVDictionaryEntry const *,int)" (?av_dict_get@@YAPAUAVDictionaryEntry@@PBUAVDictionary@@PBDPBU1@H@Z)，该符号在函数 _main 中被引用
+H.2641.obj : error LNK2019: 无法解析的外部符号 "void __cdecl av_register_all(void)" (?av_register_all@@YAXXZ)，该符号在函数 _main 中被引用
+H.2641.obj : error LNK2019: 无法解析的外部符号 "int __cdecl avformat_open_input(struct AVFormatContext * *,char const *,struct AVInputFormat *,struct AVDictionary * *)" (?avformat_open_input@@YAHPAPAUAVFormatContext@@PBDPAUAVInputFormat@@PAPAUAVDictionary@@@Z)，该符号在函数 _main 中被引用
+H.2641.obj : error LNK2019: 无法解析的外部符号 "void __cdecl avformat_close_input(struct AVFormatContext * *)" (?avformat_close_input@@YAXPAPAUAVFormatContext@@@Z)，该符号在函数 _main 中被引用
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\avcodec.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\avdevice.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\avfilter.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\avformat.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\avutil.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\postproc.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\swresample.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\H.2641\lib\swscale.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Users\Steven Chang\Desktop\H.2641\Debug\H.2641.exe : fatal error LNK1120: 4 个无法解析的外部命令

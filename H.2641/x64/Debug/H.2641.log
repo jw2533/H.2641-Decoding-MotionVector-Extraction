@@ -1,0 +1,13 @@
+﻿  pure_new.cpp
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(26): warning C4005: “av_err2str”: 宏重定义
+  e:\vs工程\h.2641-运动矢量版\h.2641\include\libavutil\error.h(120): note: 参见“av_err2str”的前一个定义
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(35): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  e:\vs工程\h.2641-运动矢量版\h.2641\include\libavcodec\avcodec.h(4753): note: 参见“avcodec_decode_video2”的声明
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(50): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 9 拥有了类型“const uint64_t”
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(76): warning C4996: 'AVStream::codec': 被声明为已否决
+  e:\vs工程\h.2641-运动矢量版\h.2641\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(108): warning C4996: 'AVStream::codec': 被声明为已否决
+  e:\vs工程\h.2641-运动矢量版\h.2641\include\libavformat\avformat.h(880): note: 参见“AVStream::codec”的声明
+e:\vs工程\h.2641-运动矢量版\h.2641\pure_new.cpp(89): warning C4715: “open_codec_context”: 不是所有的控件路径都返回值
+  H.2641.vcxproj -> E:\vs工程\H.2641-运动矢量版\x64\Debug\H.2641.exe
+  H.2641.vcxproj -> E:\vs工程\H.2641-运动矢量版\x64\Debug\H.2641.pdb (Full PDB)
